@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/flujos.sandbox/flujos.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/flujos/flujos.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/flujos.tests/flujos.tests.msd" folder="" />
     </projectModules>
   </component>
 </project>
